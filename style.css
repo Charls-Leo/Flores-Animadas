@@ -1042,26 +1042,6 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   animation-play-state: paused !important;
 }
 
-.btn-volver {
-    position: fixed;
-    top: 680px;
-    left: 50px;
-    padding: 10px 20px;
-    background-color: rgba(255, 255, 255, 0.1); /* Transparente */
-    color: white;
-    text-decoration: none;
-    border-radius: 20px;
-    font-family: sans-serif;
-    font-size: 14px;
-    z-index: 1000; /* Para que quede encima de todo */
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    transition: background 0.3s;
-}
-
-.btn-volver:hover {
-    background-color: rgba(255, 255, 255, 0.3);
-}
-
 /* --- ESTILOS PARA LA CAJA DE TEXTO --- */
 
 .message-box {
