@@ -1047,14 +1047,14 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .message-box {
   position: absolute;
   top: 3%; /* Ajusta esto para subir o bajar la caja */
-  left: 20%;
+  left: 50%;
   transform: translateX(-50%);
   width: 90%;
-  max-width: 600px; /* Ancho máximo para que no se vea mal en PC */
+  max-width: 800px; /* Ancho máximo para que no se vea mal en PC */
   background-color: rgba(20, 20, 20, 0.6); 
   border-radius: 20px; 
   border: 2px solid rgba(255, 255, 255, 0.2);
-  padding: 20px 30px;
+  padding: 40px 60px;
   text-align: center;
   z-index: 1000; /* Para asegurar que esté encima del cielo pero detrás de las flores si crecen mucho */
   
