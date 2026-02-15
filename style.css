@@ -1046,7 +1046,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 
 .message-box {
   position: absolute;
-  top: 3%; /* Ajusta esto para subir o bajar la caja */
+  top: 30%; /* Ajusta esto para subir o bajar la caja */
   left: 50%;
   transform: translateX(-50%);
   width: 90%;
